@@ -60,6 +60,7 @@ Below is an explanation of the packages used in this project and their roles:
    - **Usage in Project**: Used to read, write, and manipulate image files in various formats.
 
 ---
+### NB: Add a folder called 'dataset' to store the datafile images
 
 ## Learning Experience and Conclusion
 
