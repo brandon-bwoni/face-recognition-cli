@@ -1,4 +1,4 @@
-# Small Python Project Documentation
+# Face Recognition Python Project Documentation
 
 ## Project Setup
 
